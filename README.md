@@ -1,4 +1,4 @@
-Hi, Thank you for stopping by;
+Hi, Thank you for stopping by
 
 
  🌟 About Arham
@@ -14,56 +14,28 @@ It's actually funny how running one script was able to get past SHA-256 and prov
 
 
  🛠 Tech Stack
+ 
 - Programming: HTML, CSS, JavaScript, PHP, Python, SQL, XML, Java.
 - Tools: Linux Gnome, VS Code, Devc++, Anaconda Spyder, XAAMP, Android Studio, MySQL, SQLite, 
 
  📊 My Stats
+ 
 ![hitfromcs's Stats](https://github-readme-stats.vercel.app/api?username=hitfromcs&theme=jolly&show_icons=true&hide_border=true&count_private=true)
 ![hitfromcs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitfromcs&theme=jolly&show_icons=true&hide_border=true&layout=compact) 
 
 
  🚀 My Projects
+ 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hitfromcs&repo=Gym-Tracker-App&theme=radical)](https://github.com/hitfromcs/Gym-Tracker-App)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hitfromcs&repo=VirtualFit&theme=radical)](https://github.com/hitfromcs/VirtualFit)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hitfromcs&repo=Urban-Uproar&theme=radical)](https://github.com/hitfromcs/Urban-Uproar)
 
  📫 Contact Me
+ 
 - Email: [arhamahmed8699@gmail.com](arhamahmed8699@gmail.com)
 - LinkedIn: [in/arhamahmed4](www.linkedin.com/in/arhamahmed4)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhitfromcs&count_bg=%23B92CFF&title_bg=%23353535&icon=codecademy.svg&icon_color=%23394773&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Thank you for stopping by :)
-
-
-
-🚀 My Projects
 
 
 
