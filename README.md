@@ -1,4 +1,6 @@
-Hi, Thank you for stopping by
+Hi, Thank you for stopping by                                          [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhitfromcs&count_bg=%23B92CFF&title_bg=%23353535&icon=codecademy.svg&icon_color=%23394773&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 
  🌟 About Arham
@@ -36,8 +38,6 @@ It's actually funny how running one script was able to get past SHA-256 and prov
  
 - Email: [arhamahmed8699@gmail.com](arhamahmed8699@gmail.com)
 - LinkedIn: [in/arhamahmed4](www.linkedin.com/in/arhamahmed4)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhitfromcs&count_bg=%23B92CFF&title_bg=%23353535&icon=codecademy.svg&icon_color=%23394773&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
