@@ -27,7 +27,9 @@ It's actually funny how running one script was able to get past SHA-256 and prov
  🚀 My Projects
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hitfromcs&repo=Gym-Tracker-App&theme=radical)](https://github.com/hitfromcs/Gym-Tracker-App)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hitfromcs&repo=VirtualFit&theme=radical)](https://github.com/hitfromcs/VirtualFit)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hitfromcs&repo=Urban-Uproar&theme=radical)](https://github.com/hitfromcs/Urban-Uproar)
 
  📫 Contact Me
