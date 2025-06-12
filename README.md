@@ -19,7 +19,7 @@ It's actually funny how running one script was able to get past SHA-256 and prov
  🛠 Tech Stack ![Alt Text](https://github.com/hitfromcs/hitfromcs/blob/main/css-is-awesome.png)
  
 - Programming: HTML, CSS, JavaScript, PHP, Python, SQL, XML, Java.
-- Tools: Linux Gnome, VS Code, Devc++, Anaconda Spyder, XAAMP, Android Studio, MySQL, SQLite, 
+- Tools: Linux Gnome, VS Code, Devc++, Anaconda Spyder, XAMPP, Android Studio, Blender.
 
  📊 My Stats
 
