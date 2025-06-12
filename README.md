@@ -40,7 +40,7 @@ It's actually funny how running one script was able to get past SHA-256 and prov
  📫 Contact Me
  
 - Email: [arhamahmed8699@gmail.com](arhamahmed8699@gmail.com)
-- LinkedIn: [in/arhamahmed4](www.linkedin.com/in/arhamahmed4)
+- LinkedIn: [in/arhamahmed4](https://www.linkedin.com/in/arhamahmed4)
 
 
 
